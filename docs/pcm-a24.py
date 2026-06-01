@@ -3,7 +3,7 @@ from scipy.fftpack import fft, fftfreq, rfft
 from scipy.signal import find_peaks
 import matplotlib.pyplot as plt
 import pandas as pd
-import pyaudio
+
 
 
 def main(): 
